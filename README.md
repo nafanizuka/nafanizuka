@@ -61,8 +61,8 @@ Halo! Saya adalah seorang pelajar SMK Jurusan Teknik Komputer & Jaringan yang sa
 
 ### 📬 Mari Terkoneksi!
 
-* **Discord:** `username_discord_kamu`
-* **LinkedIn:** [Nama Kamu](https://linkedin.com/in/your-profile)
-* **Upwork:** [Profil Upwork Kamu](https://upwork.com/freelancers/~your-id)
+* **Discord:** `Izuka_my`
+* **LinkedIn:** [Naf'an](https://linkedin.com/in/your-profile)
+* **Upwork:** [Naf'an](https://upwork.com/freelancers/~your-id)
 
 *"Simplicity is the ultimate sophistication." — Leonardo da Vinci*
