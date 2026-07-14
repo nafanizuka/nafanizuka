@@ -17,13 +17,13 @@ Halo! Saya adalah seorang pelajar SMK Jurusan Teknik Komputer & Jaringan yang sa
 * 🏫 **Pendidikan:** Siswa di **SMK Krian 1 Sidoarjo**
 * 💻 **Sistem Operasi Utama:** **Arch Linux** (tinkering dari scratch, custom shell, no heavy desktop environment!)
 * 🔧 **Fokus Saat Ini:** Membangun distribusi Linux kustom, mengelola server virtual, mengonfigurasi routing jaringan, dan otomatisasi skrip.
-* 🎵 **Hobi Lain:** Memproduksi musik bergenre **Drum & Bass (DnB) & Neurofunk** di FL Studio (biasanya bermain di tempo cepat 172-180 BPM, skala F# Minor).
+* 🎵 **Hobi Lain:** Memproduksi musik dan mendengarkan musik
 
 ---
 
 ### 🚀 Projek yang Sedang Berjalan
 
-* 🛡️ **[Zarch-Linux](https://github.com/your-github-username/Zarch-Linux):** Proyek distribusi Linux kustom berbasis **archiso** yang saya bangun sendiri untuk kebutuhan sistem yang minimalis, cepat, dan efisien.
+* 🛡️ **[Zarch-Linux](https://github.com/takashiizuka/Zarch-Linux):** Proyek distribusi Linux kustom berbasis **archiso** yang saya bangun sendiri untuk kebutuhan sistem yang minimalis, cepat, dan efisien.
 * 🤖 **LOUIS:** Skrip otomatisasi bot/notifikasi multi-protokol menggunakan **Node.js** dan Telegraf API yang berjalan stabil di latar belakang menggunakan PM2.
 * 🌐 **Custom Repo Server:** Server distribusi paket biner kustom untuk Zarch-Linux yang di-hosting menggunakan Nginx dan diamankan lewat Cloudflare tunnel.
 
