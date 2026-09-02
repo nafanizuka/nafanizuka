@@ -57,7 +57,7 @@ Halo! Saya adalah seorang pelajar SMK Jurusan Teknik Komputer & Jaringan yang sa
 
 <p align="center">
   <img
-    src="./assets/tetris-contributions.svg"
+    src="./assets/tetris-contribution-graph-dark.svg"
     alt="Animated GitHub Contribution Tetris"
     width="760"
   />
